@@ -1,15 +1,79 @@
 {
   "source": "https://scholar.google.com/citations?user=ymA6CQMAAAAJ&hl=en&oi=ao",
-  "fetchedAt": "2026-05-29",
+  "fetchedAt": "2026-11-08",
   "metrics": {
-    "citationsAll": 6057,
-    "citationsSince2021": 5406,
-    "hIndexAll": 38,
-    "hIndexSince2021": 36,
-    "i10IndexAll": 66,
-    "i10IndexSince2021": 65
+    "citationsAll": 6671,
+    "citationsSince2021": 6011,
+    "hIndexAll": 40,
+    "hIndexSince2021": 38,
+    "i10IndexAll": 70,
+    "i10IndexSince2021": 69
   },
   "publications": [
+    {
+      "title": "Analyzing the Interest in Digital Wellbeing Services: Are People More Willing to Pay for Them on Social Network Sites or Messaging Platforms?",
+      "authors": "S Alshakhsi, A Babiker, D Al-Thani, C Sindermann, C Montag, R Ali",
+      "venue": "Proceedings of the 2026 European Conference on Cognitive Ergonomics, 105-110, 2026",
+      "year": 2026,
+      "citedBy": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:VOx2b1Wkg3QC"
+    },
+    {
+      "title": "Generative KI und demokratische Meinungsbildung: Risiken verzerrter Informationsvermittlung und Informationsverarbeitung",
+      "authors": "JB Schmitt, N Brandenstein, G Neubaum, C Sindermann",
+      "venue": "PsychArchives, 2026",
+      "year": 2026,
+      "citedBy": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:eJXPG6dFmWUC"
+    },
+    {
+      "title": "Künstliche Intelligenz und Individuelle Unterschiede",
+      "authors": "R Schödel, E Altgassen, MD Back, M Buss, M Bühner, JM Etzel, B Goecke,...",
+      "venue": "Psychologische Rundschau, 2026",
+      "year": 2026,
+      "citedBy": 1,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:LPZeul_q3PIC"
+    },
+    {
+      "title": "Toward an integrated psychological model of violent extremism",
+      "authors": "M Obaidi, R Bergh, S Ozer, C Sindermann",
+      "venue": "European Review of Social Psychology 37 (2), 241-290, 2026",
+      "year": 2026,
+      "citedBy": 14,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:vRqMK49ujn8C"
+    },
+    {
+      "title": "Cue-induced inhibitory control in forensic patients with alcohol use disorder: A link to criminal recidivism risk assessed by factor 2 psychopathy",
+      "authors": "HS Schmitt, J Wernicke, C Sindermann, RW Wolf, S Markett, E Ott,...",
+      "venue": "Addictive Behaviors Reports, 100713, 2026",
+      "year": 2026,
+      "citedBy": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:5Ul4iDaHHb8C"
+    },
+    {
+      "title": "In Search of Vivid Deliberation or Reinforcing Echo? A Three-Study Project on the Psychological Basis of Individuals’ Selective Exposure and Selective Avoidance Tendencies in …",
+      "authors": "J Thiele, C Sindermann",
+      "venue": "Computers in Human Behavior Reports, 101137, 2026",
+      "year": 2026,
+      "citedBy": 2,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:4fKUyHm3Qg0C"
+    },
+    {
+      "title": "A longitudinal comparison of the effects of election outcomes on system legitimacy in the UK and US",
+      "authors": "EA Valdes, R Searle, JH Liu, C Sindermann",
+      "venue": "European Journal of Social Psychology, 2026",
+      "year": 2026,
+      "citedBy": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:8AbLer7MMksC"
+    },
+    {
+      "title": "Prompt-Based Stance Control in German: An Evaluation of LLMs for Experimental Research on Attitude Change",
+      "authors": "F Omiecienski, C Sindermann, A Falenska",
+      "venue": "Proceedings of the Fifteenth Language Resources and Evaluation Conference …, 2026",
+      "year": 2026,
+      "citedBy": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:fQNAKQ3IYiAC"
+    },
     {
       "title": "A Longitudinal Comparison of the Effects of Election Outcomes on System Legitimacy in the United Kingdom and United States",
       "authors": "EA Valdes, R Searle, JH Liu, C Sindermann",
@@ -31,7 +95,7 @@
       "authors": "HS Schmitt, C Sindermann, C Montag",
       "venue": "Deviant Behavior 46 (12), 1551-1587, 2025",
       "year": 2025,
-      "citedBy": 4,
+      "citedBy": 5,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:K3LRdlH-MEoC"
     },
     {
@@ -39,7 +103,7 @@
       "authors": "HS Schmitt, C Sindermann, C Montag",
       "venue": "Acta Psychologica 260, 105542, 2025",
       "year": 2025,
-      "citedBy": 3,
+      "citedBy": 7,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -47,7 +111,7 @@
       "authors": "N Brandenstein, C Montag, C Sindermann",
       "venue": "Social Science Computer Review 43 (4), 792-813, 2025",
       "year": 2025,
-      "citedBy": 1,
+      "citedBy": 2,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:Tiz5es2fbqcC"
     },
     {
@@ -55,7 +119,7 @@
       "authors": "J Hofmann, C Sindermann, R Klinger",
       "venue": "Proceedings of the 1st Workshop for Research on Agent Language Models (REALM …, 2025",
       "year": 2025,
-      "citedBy": 1,
+      "citedBy": 2,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:738O_yMBCRsC"
     },
     {
@@ -67,12 +131,12 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:tS2w5q8j5-wC"
     },
     {
-      "title": "Toward an Integrated Psychological Model of Violent Extremism",
-      "authors": "M Obaidi, R Bergh, S Ozer, C Sindermann",
-      "venue": "European Review of Social Psychology, 1-50, 2025",
+      "title": "The degree of homogeneity versus heterogeneity in individuals’ political news consumption: A replication and extension in two independent samples.",
+      "authors": "C Sindermann, C Montag, JD Elhai",
+      "venue": "Journal of Media Psychology: Theories, Methods, and Applications 37 (1), 26, 2025",
       "year": 2025,
-      "citedBy": 7,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:vRqMK49ujn8C"
+      "citedBy": 6,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:dshw04ExmUIC"
     },
     {
       "title": "Uncovering latent profiles of political news consumers and their associations with political views and their extremity",
@@ -87,7 +151,7 @@
       "authors": "C Sindermann",
       "venue": "Current Psychology 43 (47), 36246-36258, 2024",
       "year": 2024,
-      "citedBy": 4,
+      "citedBy": 6,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:l7t_Zn2s7bgC"
     },
     {
@@ -95,7 +159,7 @@
       "authors": "C Sindermann, RW Scholz, N Löchner, R Heinzelmann, C Montag",
       "venue": "International Journal of Human–Computer Interaction 40 (23), 8107-8123, 2024",
       "year": 2024,
-      "citedBy": 7,
+      "citedBy": 11,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -103,7 +167,7 @@
       "authors": "C Sindermann",
       "venue": "Personality and Individual Differences 230, 112773, 2024",
       "year": 2024,
-      "citedBy": 6,
+      "citedBy": 9,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:tOudhMTPpwUC"
     },
     {
@@ -119,7 +183,7 @@
       "authors": "A Babiker, S Alshakhsi, C Sindermann, C Montag, R Ali",
       "venue": "Heliyon 10 (11), 2024",
       "year": 2024,
-      "citedBy": 7,
+      "citedBy": 8,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:u9iWguZQMMsC"
     },
     {
@@ -127,7 +191,7 @@
       "authors": "S Alshakhsi, A Babiker, C Sindermann, D Al-Thani, C Montag, R Ali",
       "venue": "Frontiers in Computer Science 6, 1387681, 2024",
       "year": 2024,
-      "citedBy": 3,
+      "citedBy": 5,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -135,7 +199,7 @@
       "authors": "C Sindermann, N Löchner, R Heinzelmann, C Montag, RW Scholz",
       "venue": "Technology in Society 77, 102569, 2024",
       "year": 2024,
-      "citedBy": 2,
+      "citedBy": 4,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:p2g8aNsByqUC"
     },
     {
@@ -143,7 +207,7 @@
       "authors": "C Kannen, C Sindermann, C Montag",
       "venue": "Heliyon 10 (9), 2024",
       "year": 2024,
-      "citedBy": 6,
+      "citedBy": 8,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:uWQEDVKXjbEC"
     },
     {
@@ -151,7 +215,7 @@
       "authors": "RW Scholz, J Zscheischler, H Köckler, R Czichos, KM Hofmann,...",
       "venue": "Technological Forecasting and Social Change 202, 123281, 2024",
       "year": 2024,
-      "citedBy": 28,
+      "citedBy": 41,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:UxriW0iASnsC"
     },
     {
@@ -163,19 +227,11 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:SP6oXDckpogC"
     },
     {
-      "title": "The degree of homogeneity versus heterogeneity in individuals’ political news consumption: A replication and extension in two independent samples.",
-      "authors": "C Sindermann, C Montag, JD Elhai",
-      "venue": "Journal of Media Psychology: Theories, Methods, and Applications, 2024",
-      "year": 2024,
-      "citedBy": 6,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:dshw04ExmUIC"
-    },
-    {
       "title": "To follow or not to follow-Estimating public opinion from Twitter data using network analysis and machine learning",
       "authors": "N Brandenstein, C Montag, C Sindermann",
       "venue": "preprint, doi: https://doi. org/10.31219/osf. io/nzp25, 2024",
       "year": 2024,
-      "citedBy": 1,
+      "citedBy": 2,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:KxtntwgDAa4C"
     },
     {
@@ -183,7 +239,7 @@
       "authors": "RW Scholz, H Köckler, J Zscheischler, R Czichos, KM Hofmann,...",
       "venue": "Technological Forecasting and Social Change 199, 122981, 2024",
       "year": 2024,
-      "citedBy": 14,
+      "citedBy": 19,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:P5F9QuxV20EC"
     },
     {
@@ -191,7 +247,7 @@
       "authors": "C Sindermann, C Kannen, C Montag",
       "venue": "New Media & Society 26 (2), 711-731, 2024",
       "year": 2024,
-      "citedBy": 32,
+      "citedBy": 34,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -215,7 +271,7 @@
       "authors": "JR Williams, C Sindermann, H Yang, C Montag, JD Elhai",
       "venue": "Cyberpsychology: Journal of Psychosocial Research on Cyberspace 17 (5), 2023",
       "year": 2023,
-      "citedBy": 9,
+      "citedBy": 14,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -247,7 +303,7 @@
       "authors": "C Sindermann, D Rozgonjuk, M Solvak, A Realo, K Vassil",
       "venue": "Current Psychology 42 (30), 26555-26569, 2023",
       "year": 2023,
-      "citedBy": 11,
+      "citedBy": 19,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -271,7 +327,7 @@
       "authors": "C Sindermann, C Montag",
       "venue": "Current Psychology 42 (11), 9496-9508, 2023",
       "year": 2023,
-      "citedBy": 9,
+      "citedBy": 10,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -279,7 +335,7 @@
       "authors": "C Sindermann, C Kannen, C Montag",
       "venue": "Plos one 18 (1), e0279885, 2023",
       "year": 2023,
-      "citedBy": 14,
+      "citedBy": 16,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:f2IySw72cVMC"
     },
     {
@@ -295,7 +351,7 @@
       "authors": "C Montag, D Rozgonjuk, R Riedl, C Sindermann",
       "venue": "Journal of affective disorders reports 10, 100409, 2022",
       "year": 2022,
-      "citedBy": 65,
+      "citedBy": 64,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -303,7 +359,7 @@
       "authors": "C Sindermann, C Montag, JD Elhai",
       "venue": "Technology, Mind, and Behavior 3 (4), 2022",
       "year": 2022,
-      "citedBy": 37,
+      "citedBy": 47,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -335,7 +391,7 @@
       "authors": "J Kou, Y Zhang, F Zhou, C Sindermann, C Montag, B Becker,...",
       "venue": "Psychological Medicine 52 (10), 1959-1968, 2022",
       "year": 2022,
-      "citedBy": 64,
+      "citedBy": 68,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -351,7 +407,7 @@
       "authors": "A Hermes, C Sindermann, C Montag, R Riedl",
       "venue": "Frontiers in Psychology 13, 808500, 2022",
       "year": 2022,
-      "citedBy": 35,
+      "citedBy": 40,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -375,7 +431,7 @@
       "authors": "C Sindermann, H Yang, JD Elhai, S Yang, L Quan, M Li, C Montag",
       "venue": "Discover Psychology 2 (1), 8, 2022",
       "year": 2022,
-      "citedBy": 226,
+      "citedBy": 265,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -383,7 +439,7 @@
       "authors": "C Sindermann, R Mõttus, D Rozgonjuk, C Montag",
       "venue": "PsychOpenGOLD, 2022",
       "year": 2022,
-      "citedBy": 1,
+      "citedBy": 0,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -391,23 +447,15 @@
       "authors": "J Peterka‐Bonetta, C Sindermann, JD Elhai, C Montag",
       "venue": "Human Behavior and Emerging Technologies 3 (5), 898-911, 2021",
       "year": 2021,
-      "citedBy": 25,
+      "citedBy": 26,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:k_IJM867U9cC"
-    },
-    {
-      "title": "Personality Associations With WhatsApp Usage and Usage of Alternative Messaging Applications to Protect One’s Own Data",
-      "authors": "C Sindermann, B Lachmann, JD Elhai, C Montag",
-      "venue": "Journal of Individual Differences, 2021",
-      "year": 2021,
-      "citedBy": 9,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:BqipwSGYUEgC"
     },
     {
       "title": "Serotonin and early life stress interact to shape brain architecture and anxious avoidant behavior–a TPH2 imaging genetics approach",
       "authors": "C Liu, L Xu, J Li, F Zhou, X Yang, X Zheng, M Fu, K Li, C Sindermann,...",
       "venue": "Psychological Medicine 51 (14), 2476-2484, 2021",
       "year": 2021,
-      "citedBy": 32,
+      "citedBy": 34,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -415,7 +463,7 @@
       "authors": "C Sindermann, HS Schmitt, F Kargl, C Herbert, C Montag",
       "venue": "International Journal of Human–Computer Interaction 37 (15), 1455-1466, 2021",
       "year": 2021,
-      "citedBy": 49,
+      "citedBy": 58,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -431,7 +479,7 @@
       "authors": "M Müller, C Sindermann, D Rozgonjuk, C Montag",
       "venue": "Frontiers in Psychology 12, 661541, 2021",
       "year": 2021,
-      "citedBy": 35,
+      "citedBy": 38,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -439,7 +487,7 @@
       "authors": "C Sindermann, D Rozgonjuk, C Kannen, C Montag",
       "venue": "OSF Preprints, 2021",
       "year": 2021,
-      "citedBy": 1,
+      "citedBy": 3,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -447,7 +495,7 @@
       "authors": "C Sindermann, H Yang, T Liu, JD Elhai, C Montag",
       "venue": "Journal of Technology in Behavioral Science 6 (2), 397-405, 2021",
       "year": 2021,
-      "citedBy": 40,
+      "citedBy": 43,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -455,7 +503,7 @@
       "authors": "D Marengo, C Montag, C Sindermann, JD Elhai, M Settanni",
       "venue": "Telematics and Informatics 58, 101523, 2021",
       "year": 2021,
-      "citedBy": 267,
+      "citedBy": 293,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -463,7 +511,7 @@
       "authors": "C Montag, S Hegelich, C Sindermann, D Rozgonjuk, D Marengo, JD Elhai",
       "venue": "Trends in Cognitive Sciences 25 (4), 268-270, 2021",
       "year": 2021,
-      "citedBy": 47,
+      "citedBy": 52,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -471,7 +519,7 @@
       "authors": "HM Pontes, B Schivinski, C Sindermann, M Li, B Becker, M Zhou,...",
       "venue": "International Journal of Mental Health and Addiction 19 (2), 508-528, 2021",
       "year": 2021,
-      "citedBy": 389,
+      "citedBy": 428,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -479,7 +527,7 @@
       "authors": "C Sindermann, HS Schmitt, D Rozgonjuk, JD Elhai, C Montag",
       "venue": "Heliyon 7 (3), e06503, 2021",
       "year": 2021,
-      "citedBy": 63,
+      "citedBy": 64,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -495,7 +543,7 @@
       "authors": "D Rozgonjuk, C Sindermann, JD Elhai, C Montag",
       "venue": "Personality and Individual Differences 171, 110546, 2021",
       "year": 2021,
-      "citedBy": 312,
+      "citedBy": 353,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -503,7 +551,7 @@
       "authors": "LC de Hesselle, D Rozgonjuk, C Sindermann, HM Pontes, C Montag",
       "venue": "Personality and Individual Differences 171, 110483, 2021",
       "year": 2021,
-      "citedBy": 98,
+      "citedBy": 101,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -511,7 +559,7 @@
       "authors": "C Sindermann, P Sha, M Zhou, J Wernicke, HS Schmitt, M Li, R Sariyska,...",
       "venue": "KI-Künstliche Intelligenz 35 (1), 109-118, 2021",
       "year": 2021,
-      "citedBy": 457,
+      "citedBy": 579,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -543,7 +591,7 @@
       "authors": "D Rozgonjuk, C Sindermann, JD Elhai, C Montag",
       "venue": "Cyberpsychology, behavior, and social networking 24 (2), 129-134, 2021",
       "year": 2021,
-      "citedBy": 114,
+      "citedBy": 117,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -551,7 +599,7 @@
       "authors": "D Rozgonjuk, KL Davis, C Sindermann, C Montag",
       "venue": "Personality Neuroscience 4, e7, 2021",
       "year": 2021,
-      "citedBy": 13,
+      "citedBy": 15,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -575,7 +623,7 @@
       "authors": "C Sindermann, R Sariyska, JD Elhai, C Montag",
       "venue": "Handbook of Clinical Neurology 182, 389-400, 2021",
       "year": 2021,
-      "citedBy": 11,
+      "citedBy": 13,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -583,7 +631,7 @@
       "authors": "C Montag, C Sindermann, D Rozgonjuk, S Yang, J Elhai, H Yang",
       "venue": "Frontiers in Psychology 12, 2101, 2021",
       "year": 2021,
-      "citedBy": 50,
+      "citedBy": 51,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -593,6 +641,14 @@
       "year": 2021,
       "citedBy": 3,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:RGFaLdJalmkC"
+    },
+    {
+      "title": "Personality associations with WhatsApp usage and usage of alternative messaging applications to protect one’s own data.",
+      "authors": "C Sindermann, B Lachmann, JD Elhai, C Montag",
+      "venue": "Journal of Individual Differences 42 (4), 167, 2021",
+      "year": 2021,
+      "citedBy": 8,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:BqipwSGYUEgC"
     },
     {
       "title": "Soziale Medien und Demokratiefähigkeit",
@@ -607,7 +663,7 @@
       "authors": "B Lachmann, A Doebler, C Sindermann, R Sariyska, A Cooper, H Haas,...",
       "venue": "Journal of Happiness Studies 22 (1), 305-322, 2021",
       "year": 2021,
-      "citedBy": 23,
+      "citedBy": 24,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:dhFuZR0502QC"
     },
     {
@@ -623,7 +679,7 @@
       "authors": "C Sindermann, A Cooper, C Montag",
       "venue": "Current opinion in psychology 36, 44-48, 2020",
       "year": 2020,
-      "citedBy": 141,
+      "citedBy": 144,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -631,7 +687,7 @@
       "authors": "C Montag, C Sindermann, H Baumeister",
       "venue": "Current opinion in psychology 36, 19-24, 2020",
       "year": 2020,
-      "citedBy": 100,
+      "citedBy": 110,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -639,7 +695,7 @@
       "authors": "D Rozgonjuk, C Sindermann, JD Elhai, C Montag",
       "venue": "Addictive Behaviors 110, 106487, 2020",
       "year": 2020,
-      "citedBy": 537,
+      "citedBy": 595,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -647,7 +703,7 @@
       "authors": "D Marengo, C Sindermann, D Häckel, M Settanni, JD Elhai, C Montag",
       "venue": "Journal of Behavioral Addictions 9 (3), 534-550, 2020",
       "year": 2020,
-      "citedBy": 136,
+      "citedBy": 158,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -655,7 +711,7 @@
       "authors": "D Rozgonjuk, C Sindermann, JD Elhai, AP Christensen, C Montag",
       "venue": "Journal of Behavioral Addictions 9 (3), 686-697, 2020",
       "year": 2020,
-      "citedBy": 100,
+      "citedBy": 104,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -663,7 +719,7 @@
       "authors": "C Sindermann, DJ Kuss, MA Throuvala, MD Griffiths, C Montag",
       "venue": "Frontiers in Psychology 11, 1415, 2020",
       "year": 2020,
-      "citedBy": 40,
+      "citedBy": 41,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -671,7 +727,7 @@
       "authors": "C Montag, C Sindermann, D Lester, KL Davis",
       "venue": "Heliyon 6 (7), e04325, 2020",
       "year": 2020,
-      "citedBy": 168,
+      "citedBy": 185,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:TQgYirikUcIC"
     },
     {
@@ -679,7 +735,7 @@
       "authors": "C Sindermann, R Riedl, C Montag",
       "venue": "Future Internet 12 (7), 110, 2020",
       "year": 2020,
-      "citedBy": 50,
+      "citedBy": 53,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:mB3voiENLucC"
     },
     {
@@ -687,7 +743,7 @@
       "authors": "S Markett, M Reuter, C Sindermann, C Montag",
       "venue": "Personality and Individual Differences 159, 109916, 2020",
       "year": 2020,
-      "citedBy": 13,
+      "citedBy": 14,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -695,7 +751,7 @@
       "authors": "C Sindermann, É Duke, C Montag",
       "venue": "Addictive Behaviors Reports 11, 100264, 2020",
       "year": 2020,
-      "citedBy": 58,
+      "citedBy": 63,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -703,7 +759,7 @@
       "authors": "D Marengo, C Sindermann, JD Elhai, C Montag",
       "venue": "Frontiers in psychology 11, 936, 2020",
       "year": 2020,
-      "citedBy": 80,
+      "citedBy": 104,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -719,7 +775,7 @@
       "authors": "C Sindermann, JD Elhai, C Montag",
       "venue": "Psychiatry Research 285, 112793, 2020",
       "year": 2020,
-      "citedBy": 155,
+      "citedBy": 163,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -727,7 +783,7 @@
       "authors": "C Sindermann, R Luo, B Becker, KM Kendrick, C Montag",
       "venue": "Brain and behavior 10 (2), e01518, 2020",
       "year": 2020,
-      "citedBy": 7,
+      "citedBy": 8,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -751,7 +807,7 @@
       "authors": "HS Schmitt, C Sindermann, M Li, Y Ma, KM Kendrick, B Becker, C Montag",
       "venue": "Frontiers in Psychology 11, 1132, 2020",
       "year": 2020,
-      "citedBy": 30,
+      "citedBy": 32,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -759,8 +815,8 @@
       "authors": "C Sindermann, JD Elhai, M Moshagen, C Montag",
       "venue": "Heliyon 6 (1), e03214, 2020",
       "year": 2020,
-      "citedBy": 123,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:qxL8FJ1GzNcC"
+      "citedBy": 125,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:qxL8FJ1GzNcC"
     },
     {
       "title": "Gene-Environment Interaction: A TPH2 polymorphism and early life stress shape brain architecture and anxious avoidant behavior",
@@ -768,7 +824,7 @@
       "venue": "Psychological Medicine (Epub ahed of print). doi 10, 2020",
       "year": 2020,
       "citedBy": 2,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:_kc_bZDykSQC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:_kc_bZDykSQC"
     },
     {
       "title": "Markett-Cognitive-failure-susceptibility-and-personality",
@@ -776,7 +832,7 @@
       "venue": "",
       "year": 2019,
       "citedBy": 0,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:mVmsd5A6BfQC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:mVmsd5A6BfQC"
     },
     {
       "title": "On Facebook usage, Facebook use disorder and personality",
@@ -784,15 +840,15 @@
       "venue": "JOURNAL OF BEHAVIORAL ADDICTIONS 8, 30-30, 2019",
       "year": 2019,
       "citedBy": 0,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:4TOpqqG69KYC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:4TOpqqG69KYC"
     },
     {
       "title": "Individual differences in tendencies to attention-deficit/hyperactivity disorder and emotionality: empirical evidence in young healthy adults from Germany and China",
       "authors": "J Wernicke, M Li, P Sha, M Zhou, C Sindermann, B Becker, KM Kendrick,...",
       "venue": "ADHD Attention Deficit and Hyperactivity Disorders 11 (2), 167-182, 2019",
       "year": 2019,
-      "citedBy": 22,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:UebtZRa9Y70C"
+      "citedBy": 25,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:UebtZRa9Y70C"
     },
     {
       "title": "Empathy, autistic tendencies, and systemizing tendencies—Relationships between standard self-report measures",
@@ -800,15 +856,15 @@
       "venue": "Frontiers in psychiatry 10, 307, 2019",
       "year": 2019,
       "citedBy": 38,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:kNdYIx-mwKoC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:kNdYIx-mwKoC"
     },
     {
       "title": "The relationship between Internet Use Disorder, depression and burnout among Chinese and German college students",
       "authors": "J Peterka-Bonetta, C Sindermann, P Sha, M Zhou, C Montag",
       "venue": "Addictive behaviors 89, 188-199, 2019",
       "year": 2019,
-      "citedBy": 104,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:Se3iqnhoufwC"
+      "citedBy": 106,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:Se3iqnhoufwC"
     },
     {
       "title": "Soziale Medien, digitale Daten und ihre Auswirkungen auf den einzelnen Menschen",
@@ -823,7 +879,7 @@
       "authors": "S Jung, C Sindermann, M Li, J Wernicke, L Quan, HC Ko, C Montag",
       "venue": "Frontiers in psychiatry, 640, 2019",
       "year": 2019,
-      "citedBy": 26,
+      "citedBy": 28,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:4DMP91E08xMC"
     },
     {
@@ -863,7 +919,7 @@
       "authors": "J Peterka-Bonetta, C Sindermann, C Montag",
       "venue": "Frontiers in Public Health 7, 127, 2019",
       "year": 2019,
-      "citedBy": 174,
+      "citedBy": 177,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -887,7 +943,7 @@
       "authors": "Z Zhao, S Yao, K Li, C Sindermann, F Zhou, W Zhao, J Li, M Lührs,...",
       "venue": "Psychotherapy and psychosomatics 88 (1), 5-15, 2019",
       "year": 2019,
-      "citedBy": 105,
+      "citedBy": 114,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -895,7 +951,7 @@
       "authors": "C Sindermann, R Sariyska, B Lachmann, M Brand, C Montag",
       "venue": "Journal of behavioral addictions 7 (4), 985-992, 2018",
       "year": 2018,
-      "citedBy": 85,
+      "citedBy": 90,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -911,16 +967,8 @@
       "authors": "C Sindermann, J Saliger, J Nielsen, H Karbe, S Markett, M Stavrou,...",
       "venue": "Archives of Clinical Neuropsychology 33 (5), 552-561, 2018",
       "year": 2018,
-      "citedBy": 29,
+      "citedBy": 30,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:UeHWp8X0CEIC"
-    },
-    {
-      "title": "Real-time functional connectivity-based neurofeedback of amygdala-frontal pathways reduces anxiety",
-      "authors": "Z Zhao, S Yao, K Li, C Sindermann, F Zhou, W Zhao, J Li, M Lührs,...",
-      "venue": "bioRxiv, 308924, 2018",
-      "year": 2018,
-      "citedBy": 0,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:fPk4N6BV_jEC"
     },
     {
       "title": "The relationship between Internet literacy, use expectancies, and symptoms of Internet-use disorder: A comparative study between China and Germany",
@@ -967,7 +1015,7 @@
       "authors": "B Stodt, M Brand, C Sindermann, E Wegmann, M Li, M Zhou, P Sha,...",
       "venue": "International Journal of Environmental Research and Public Health 15 (4), 579, 2018",
       "year": 2018,
-      "citedBy": 61,
+      "citedBy": 65,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -975,7 +1023,7 @@
       "authors": "C Montag, Z Zhao, C Sindermann, L Xu, M Fu, J Li, X Zheng, K Li,...",
       "venue": "Scientific reports 8 (1), 2155, 2018",
       "year": 2018,
-      "citedBy": 148,
+      "citedBy": 154,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -983,8 +1031,16 @@
       "authors": "C Sindermann, R Luo, Z Zhao, Q Li, M Li, KM Kendrick, J Panksepp,...",
       "venue": "Personality and Individual Differences 121, 184-192, 2018",
       "year": 2018,
-      "citedBy": 46,
+      "citedBy": 47,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:qjMakFHDy7sC"
+    },
+    {
+      "title": "Real-time functional connectivity-based neurofeedback of amygdala-frontal pathways reduces anxiety",
+      "authors": "Z Zhao, S Yao, K Li, C Sindermann, F Zhou, W Zhao, J Li, M Lührs,...",
+      "venue": "Cold Spring Harbor: Cold Spring Harbor Laboratory Press. https://doi. org/10 …, 2018",
+      "year": 2018,
+      "citedBy": 2,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:fPk4N6BV_jEC"
     },
     {
       "title": "Oxytocin effects on brain and behavior are influenced by dose-frequency and receptor genotype: therapeutic implications",
@@ -1007,7 +1063,7 @@
       "authors": "C Sindermann, R Luo, Y Zhang, KM Kendrick, B Becker, C Montag",
       "venue": "Frontiers in behavioral neuroscience 12, 148, 2018",
       "year": 2018,
-      "citedBy": 23,
+      "citedBy": 24,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -1015,7 +1071,7 @@
       "authors": "B Lachmann, C Sindermann, RY Sariyska, R Luo, MC Melchers, B Becker,...",
       "venue": "Frontiers in Psychology 9, 398, 2018",
       "year": 2018,
-      "citedBy": 262,
+      "citedBy": 273,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1031,15 +1087,15 @@
       "authors": "C Sindermann, KM Kendrick, B Becker, M Li, S Li, C Montag",
       "venue": "Behavioral Sciences 7 (3), 60, 2017",
       "year": 2017,
-      "citedBy": 27,
+      "citedBy": 31,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:9yKSN-GCB0IC"
     },
     {
       "title": "An affective neuroscience framework for the molecular study of internet addiction",
       "authors": "C Montag, C Sindermann, B Becker, J Panksepp",
-      "venue": "Frontiers in Psychology 7, 229460, 2016",
+      "venue": "Frontiers in psychology 7, 1906, 2016",
       "year": 2016,
-      "citedBy": 132,
+      "citedBy": 139,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -1051,27 +1107,19 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:u5HHmVD_uO8C"
     },
     {
-      "title": "The 2D: 4D-ratio and neuroticism revisited: empirical evidence from Germany and China",
+      "title": "The 2D: 4D-ratio and neuroticism revisited: Empirical evidence from Germany and China",
       "authors": "C Sindermann, M Li, R Sariyska, B Lachmann, É Duke, A Cooper,...",
-      "venue": "Frontiers in Psychology 7, 196270, 2016",
+      "venue": "Frontiers in Psychology 7, 811, 2016",
       "year": 2016,
-      "citedBy": 36,
+      "citedBy": 39,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:u-x6o8ySG0sC"
-    },
-    {
-      "title": "In Search of Vivid Deliberation or Reinforcing Echo? A Three-Study Project on the Psychological Basis of Individuals’ Selective Exposure and Selective Avoidance Tendencies in …",
-      "authors": "J Thiele, C Sindermann",
-      "venue": "",
-      "year": null,
-      "citedBy": 0,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:4fKUyHm3Qg0C"
     },
     {
       "title": "Real-time functional connectivity-based neurofeedback of amygdala-frontal pathways reduces anxiety",
       "authors": "Z Zhao, S Yao, K Li, C Sindermann, F Zhou, W Zhao, J Li, M Lührs,...",
       "venue": "",
       "year": null,
-      "citedBy": 2,
+      "citedBy": 0,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ymA6CQMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ymA6CQMAAAAJ:abG-DnoFyZgC"
     },
     {
