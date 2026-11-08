@@ -1,0 +1,37 @@
+name: Update publications
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Refresh Google Scholar publication data
+        run: node scripts/update-publications.mjs
+
+      - name: Commit updated publication data
+        run: |
+          if git diff --quiet data/publications.json; then
+            echo "Publication data is already up to date."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/publications.json
+            git commit -m "Update publication data"
+            git push
+          fi

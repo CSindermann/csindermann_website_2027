@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Prof. Dr. Cornelia Sindermann</title>
+    <meta name="description" content="Bilingual website of Prof. Dr. Cornelia Sindermann.">
+    <link rel="alternate" hreflang="en" href="en/">
+    <link rel="alternate" hreflang="de" href="de/">
+    <link rel="alternate" hreflang="x-default" href="en/">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <script>
+      (function () {
+        var saved = localStorage.getItem('preferredLanguage');
+        var languages = navigator.languages || [navigator.language || ''];
+        var target = saved === 'de' || saved === 'en'
+          ? saved
+          : languages.some(function (language) { return String(language).toLowerCase().startsWith('de'); })
+            ? 'de'
+            : 'en';
+        window.location.replace(target + '/' + window.location.hash);
+      })();
+    </script>
+  </head>
+  <body>
+    <main>
+      <h1>Prof. Dr. Cornelia Sindermann</h1>
+      <p>Please choose a language:</p>
+      <p><a href="en/">English</a> | <a href="de/">Deutsch</a></p>
+    </main>
+  </body>
+</html>
